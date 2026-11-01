@@ -11,7 +11,7 @@ The setting is a small act of player-directed expression. Chance, cooldown and a
 
 ## Earlier context: the other `roar` repository
 
-The separate [`roar` repository](https://github.com/babunidev/roar) began a day earlier, on 2025-11-22. Its first ROAR implementation noted that it had been rewritten from BuxbrewCharge. By November 23, that repository had passed through several naming changes and had committed ROARR files with a six-second default cooldown and the five emote tokens ROAR, CHARGE, CHEER, BORED and FLEX.
+The separate [`roar` repository](https://github.com/babunidev/BattleEmotesLegacy) began a day earlier, on 2025-11-22. Its first ROAR implementation noted that it had been rewritten from BuxbrewCharge. By November 23, that repository had passed through several naming changes and had committed ROARR files with a six-second default cooldown and the five emote tokens ROAR, CHARGE, CHEER, BORED and FLEX.
 
 This other repository's history provides **context**, but it is not the development history of `babunidev/BattleEmotes`. It would be misleading to copy every earlier filename experiment into this repository's changelog or imply this repo contained those deleted/renamed files.
 
@@ -48,3 +48,7 @@ Babuni.dev has not yet selected, in evidence available here, which of the two si
 ## November 2026 — Battle Emotes
 
 After naming the earlier `roar` repository **Battle Emotes Legacy**, I renamed this separate `roarr` repository to **BattleEmotes**. The two snapshots are closely related, but I want their separate histories preserved. The small change that distinguishes this copy in the inspected Git record is its longer seven-step setup tutorial. At my request, an AI assistant aligned this documentation with the new names and first-person viewpoint. The installed addon remains **ROARR**, and no gameplay code was changed or tested during this review.
+
+## 1 November 2026 — distinguishing two very similar repositories
+
+During the comparison of my ROAR experiments, I asked AI to look for a remembered ability to add emotes. Both this repository and Battle Emotes Legacy have the same fixed five-emote pool: the longer tutorial is the distinctive change in this snapshot. The ability to register more native tokens belongs to Roar Guild Addon and its Wrath port, after Multi Action Emotes introduced multiple watched slots. The [family history](EMOTE_FAMILY_HISTORY.md) records the broader chronology without claiming the repositories were formally merged. Documentation only; no game-client testing.

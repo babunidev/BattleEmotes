@@ -32,3 +32,7 @@ The 2026-10-26 work was documentation-only and did not approve runtime changes.
 The GitHub repository is **BattleEmotes** (display title **Battle Emotes**), formerly `roarr`. The older `roar` repository is now **BattleEmotesLegacy**. Both installed packages historically use **ROARR**, so keep their Git histories distinct. Do not rename `roarr.lua`, `roarr.toc`, `/roarr` or `ROARRDB` without explicit approval.
 
 Use **Babuni** for the human identity, **babuni.dev** for the development portfolio, and **creative** rather than “creator” as a role label. In public narratives write from Babuni's first-person viewpoint, never beginning a narrative sentence with `I` or `My`. Present AI as an assistant who contributed documented work, not the narrator or original author. Preserve uncertain history and the historical MIT copyright line.
+
+## Cross-project evidence
+
+Use [the family-history comparison](docs/EMOTE_FAMILY_HISTORY.md) before describing this project's relationship to Battle Emotes Legacy, Multi Action Emotes, or Roar Guild Addon. Do not imply the static five-token source array is an unlimited player-editable emote list.

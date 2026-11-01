@@ -28,3 +28,7 @@ This snapshot's unique added content is an expanded `/roarr tutorial` sequence. 
 The chat UI prints `ROARR:` plus descriptions for enabled, disabled, watched slot, saved settings, errors and `info`. This source supports English-only author-supplied guidance. Localization of Blizzard's built-in emote output is controlled by the game, not by this addon.
 
 For future content revisions, preserve authorship and distinguish the creator's source text from the game-owned built-in emote tokens. Record specific accepted changes and tested behavior rather than silently replacing content.
+
+## Related development history
+
+Battle Emotes, originally the separate `roarr` repository, preserves the same five **hardcoded** native emotes and action-slot/chance/cooldown mechanics as Battle Emotes Legacy. The meaningful source difference is its expanded seven-step `/roarr tutorial`. Neither addon exposes an in-game command for adding emote tokens; that extensible registry appears in the later Roar Guild Addon. The [cross-project development account](EMOTE_FAMILY_HISTORY.md) records the other branches and client targets.

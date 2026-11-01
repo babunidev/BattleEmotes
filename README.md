@@ -52,7 +52,7 @@ Defaults are **on**, **100% chance**, a **6-second cooldown**, and no configured
 
 ## Relationship to Battle Emotes Legacy
 
-There are **two separate GitHub repositories**. The [older Battle Emotes Legacy repository](https://github.com/babunidev/roar) went through ROAR/ROARR renaming experiments on **November 22–23, 2025** and already contained the same core ROARR system. This repository, originally `roarr`, was first uploaded on **November 23, 2025**, with the same addon configuration and gameplay code, and shortly afterward gained a longer `/roarr tutorial`.
+There are **two separate GitHub repositories**. The [older Battle Emotes Legacy repository](https://github.com/babunidev/BattleEmotesLegacy) went through ROAR/ROARR renaming experiments on **November 22–23, 2025** and already contained the same core ROARR system. This repository, originally `roarr`, was first uploaded on **November 23, 2025**, with the same addon configuration and gameplay code, and shortly afterward gained a longer `/roarr tutorial`.
 
 In the currently committed versions, the **Lua files are identical apart from that tutorial branch**. The Git history supports a closely related second repository snapshot, but does **not** establish why the creator maintained two repos or which should be the authoritative distribution. Neither repo was merged, deleted or redirected during this documentation work.
 
@@ -77,3 +77,7 @@ ROARR also must not be confused with the separate, more advanced **RoarForever**
 - [Architecture](docs/ARCHITECTURE.md) · [Decision evidence](docs/DECISIONS.md) · [Development journal](docs/DEVLOG.md)
 - [Roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
 - [Human–AI collaboration](docs/AI_COLLABORATION.md) · [Developer instructions](AGENTS.md)
+
+## Relation to the wider emote projects
+
+Battle Emotes, originally the separate `roarr` repository, preserves the same five **hardcoded** native emotes and action-slot/chance/cooldown mechanics as Battle Emotes Legacy. The meaningful source difference is its expanded seven-step `/roarr tutorial`. Neither addon exposes an in-game command for adding emote tokens; that extensible registry appears in the later Roar Guild Addon. See [the comparative project history](docs/EMOTE_FAMILY_HISTORY.md) for how multiple triggers, player-added emotes and finally spellcast-aware flourishes developed.

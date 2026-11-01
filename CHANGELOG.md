@@ -29,3 +29,8 @@ The exact reason for maintaining two repositories is not recoverable from these 
 - I renamed my `roarr` GitHub repository to **BattleEmotes**, distinct from **BattleEmotesLegacy**.
 - At my direction, AI revised the current documentation, project links and human attribution while preserving historical runtime identifiers and the original MIT copyright notice.
 - Documentation only. No Lua, TOC, license or gameplay tests changed.
+
+## 2026-11-01 — family-history documentation
+
+- Verified this project's fixed five-token source list and seven-step tutorial distinction.
+- Added [the full expressive-addon history](docs/EMOTE_FAMILY_HISTORY.md); no Lua/TOC changes.

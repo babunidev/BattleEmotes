@@ -37,3 +37,7 @@ Default cooldown: **6 seconds**. Default proc chance: **100%**. After a valid sl
 ## Limitations and accessibility checks
 
 Many on-screen status lines make the tutorial readable but potentially noisy; test this in live chat. English command descriptions and fixed token names may depend on client locale. If the slot changes when the action bar layout changes, the player must update `/roarr slot`. Input validation currently accepts noninteger numeric slot values. Actual usability and compatibility remain to be tested.
+
+## Related development history
+
+Battle Emotes, originally the separate `roarr` repository, preserves the same five **hardcoded** native emotes and action-slot/chance/cooldown mechanics as Battle Emotes Legacy. The meaningful source difference is its expanded seven-step `/roarr tutorial`. Neither addon exposes an in-game command for adding emote tokens; that extensible registry appears in the later Roar Guild Addon. The [cross-project development account](EMOTE_FAMILY_HISTORY.md) records the other branches and client targets.
