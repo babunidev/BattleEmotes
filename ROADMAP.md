@@ -1,6 +1,6 @@
-# ROARR — roadmap / verification backlog
+# Battle Emotes — roadmap / verification backlog
 
-**Author:** Babuni.dev  
+**By:** Babuni  
 **Status:** proposed validation and questions for the creator. None is an approved new feature.
 
 ## Current documented baseline
