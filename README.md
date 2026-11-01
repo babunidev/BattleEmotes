@@ -1,10 +1,12 @@
-# ROARR — action-slot battle emotes
+# Battle Emotes — action-slot battle emotes
 
-**Author / creative director:** Babuni.dev  
-**Repository:** `babunidev/roarr`  
+**By:** Babuni  
+**Repository:** `babunidev/BattleEmotes`  
 **Client target declared in source:** World of Warcraft 1.12 / interface `11200`  
 **Addon version:** 1.0  
 **Verification:** Static repository inspection; not tested in-game during this documentation pass.
+
+This is my **Battle Emotes** repository, originally named `roarr`. The name describes its function and distinguishes it from my earlier [Battle Emotes Legacy](https://github.com/babunidev/BattleEmotesLegacy) repository. The installed addon is still **ROARR**, with the original `roarr.lua`, `roarr.toc`, `/roarr` commands and `ROARRDB` settings; the GitHub rename does not change those identifiers.
 
 ROARR makes an ordinary action-bar button a chance for spontaneous roleplay. The addon watches one configured action slot, and after checking its enable switch, cooldown and probability, it chooses one of five built-in game emotes: **ROAR, CHARGE, CHEER, BORED, FLEX**. The underlying action is still forwarded to World of Warcraft.
 
@@ -48,9 +50,9 @@ Defaults are **on**, **100% chance**, a **6-second cooldown**, and no configured
 
 **Important timing detail:** The code updates its cooldown timestamp **before** the chance roll. A failed 40% roll still consumes the cooldown interval. This is a source observation, not a proposal to change gameplay.
 
-## Relationship to `babunidev/roar`
+## Relationship to Battle Emotes Legacy
 
-There are **two separate GitHub repositories**. The [older `roar` repository](https://github.com/babunidev/roar) went through ROAR/ROARR renaming experiments on **November 22–23, 2025** and already contained the same core ROARR system. This repository, `roarr`, was first uploaded on **November 23, 2025**, with the same addon configuration and gameplay code, and shortly afterward gained a longer `/roarr tutorial`.
+There are **two separate GitHub repositories**. The [older Battle Emotes Legacy repository](https://github.com/babunidev/roar) went through ROAR/ROARR renaming experiments on **November 22–23, 2025** and already contained the same core ROARR system. This repository, originally `roarr`, was first uploaded on **November 23, 2025**, with the same addon configuration and gameplay code, and shortly afterward gained a longer `/roarr tutorial`.
 
 In the currently committed versions, the **Lua files are identical apart from that tutorial branch**. The Git history supports a closely related second repository snapshot, but does **not** establish why the creator maintained two repos or which should be the authoritative distribution. Neither repo was merged, deleted or redirected during this documentation work.
 
