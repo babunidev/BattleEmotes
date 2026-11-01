@@ -1,4 +1,6 @@
-# ROARR — technical architecture, separate repository snapshot
+# Battle Emotes — technical architecture, separate repository snapshot
+
+This reference describes the original **ROARR** implementation in my renamed **BattleEmotes** repository. The code's original filenames and runtime identifiers remain unchanged.
 
 **Basis:** current `roarr.lua` and `roarr.toc`, inspected 2026-10-26. No actual game client was run.
 
