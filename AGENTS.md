@@ -1,4 +1,4 @@
-# ROARR repository — development rules
+# Battle Emotes — development rules
 
 **By:** Babuni.
 
