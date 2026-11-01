@@ -1,9 +1,11 @@
-# ROARR — creative concept
+# Battle Emotes — creative concept
 
-**Creative author:** Babuni.dev  
+**By:** Babuni  
 **Project-specific focus:** a dedicated ROARR repository snapshot with an expanded in-game setup tutorial.
 
 ## Idea and player experience
+
+The idea behind my **Battle Emotes** experiment was to give an ordinary action press a little character expression. It is closely related to my earlier **Battle Emotes Legacy** project, but this separate repository has its own Git history and a more detailed tutorial. The installed addon remains **ROARR**.
 
 ROARR gives the player a small, characterful flourish while they continue playing World of Warcraft. The player selects one action-bar button. Whenever it is pressed, the addon may call a built-in emote such as ROAR, CHARGE, CHEER, BORED or FLEX. Chance and cooldown controls keep the reactions intermittent, while an enable switch lets the user suspend them without losing configuration.
 
@@ -21,4 +23,4 @@ Calling this a usability-oriented evolution is an **interpretation of the commit
 
 This repo is not mechanically distinct from the first ROARR implementation except for tutorial presentation. It is also **not** a documented direct precursor to every later ROAR-related addon. Link projects by verified changes or explicit creator decisions; do not merge histories merely because their names resemble one another.
 
-The project's author and design authority remain Babuni.dev. AI-produced documentation and any future technical proposals should be recorded as contributions, not as origin stories.
+My creative direction remains distinct from AI's later work interpreting and documenting the repository. AI-produced documentation and any future technical proposals should be recorded as contributions, not as origin stories.
