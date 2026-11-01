@@ -1,12 +1,12 @@
-# ROARR — collaboration and attribution methodology
+# Battle Emotes — collaboration and attribution methodology
 
-**Human author and creative director:** Babuni.dev.
+**By:** Babuni.
 
 ## What the existing evidence can tell us
 
 The public README, `roarr.lua`, `roarr.toc`, license and Git history establish what this repository contains and when specific files changed. They do **not** provide an original conversation explaining why a second ROARR repo was started or who suggested each line of Lua.
 
-Keep the creator's project direction distinct from implementation details. Avoid assigning the idea of built-in action-triggered emotes to AI just because AI assists with later documentation or coding.
+Keep my creative direction distinct from implementation details. Avoid assigning the idea of built-in action-triggered emotes to AI just because AI assists with later documentation or coding.
 
 ## This documentation pass
 
@@ -21,7 +21,7 @@ That is an attributable **analysis/editing contribution**. It is not evidence th
 
 ## Attribution and permission boundaries
 
-The repository's display author is Babuni.dev. The preserved MIT license includes a historical `Copyright (c) 2025 Elexior` notice. Do not change it without the proper rights context. Avoid republishing old private chats, player messages, sensitive data or third-party material as part of the public development record.
+My public identity for this project is **Babuni**; **babuni.dev** is the wider development portfolio. The preserved MIT license includes a historical `Copyright (c) 2025 Elexior` notice. Do not change it without the proper rights context. Avoid republishing old private chats, player messages, sensitive data or third-party material as part of the public development record.
 
 ## Future journal entries must include
 
@@ -33,3 +33,7 @@ The repository's display author is Babuni.dev. The preserved MIT license include
 6. What remains unverified.
 
 In the absence of any of these, explicitly label retrospective inference or proposed work rather than completing the narrative with fiction.
+
+## November 2026 — documenting my naming choice
+
+I renamed this repository from `roarr` to **BattleEmotes**, keeping it distinct from **BattleEmotesLegacy**. My AI assistant reviewed the existing record and updated its titles, links and attribution at my request. The original `ROARR` addon files and historic MIT copyright statement remain unchanged. No runtime verification was performed.
