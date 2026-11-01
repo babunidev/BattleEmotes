@@ -1,6 +1,6 @@
-# ROARR — changelog and evidence
+# Battle Emotes — changelog and evidence
 
-**Author:** Babuni.dev
+**By:** Babuni
 
 ## 2026-10-26 — documentation reconstruction
 
@@ -23,3 +23,9 @@
 The other `roar` repository has its own **2025-11-22–23** history and multiple intermediate renames. Those are contextual evidence, not commits to this repo. Do not import its unrelated timeline as if it occurred here.
 
 The exact reason for maintaining two repositories is not recoverable from these commit messages and should not be invented.
+
+## 2026-11-01 — Battle Emotes repository name
+
+- I renamed my `roarr` GitHub repository to **BattleEmotes**, distinct from **BattleEmotesLegacy**.
+- At my direction, AI revised the current documentation, project links and human attribution while preserving historical runtime identifiers and the original MIT copyright notice.
+- Documentation only. No Lua, TOC, license or gameplay tests changed.
