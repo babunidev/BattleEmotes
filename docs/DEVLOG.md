@@ -1,19 +1,19 @@
-# ROARR — development journal for the second repository
+# Battle Emotes — development journal for the second repository
 
-**Project creator:** Babuni.dev  
-**Reconstructed on:** 2026-10-26 from the source, README, manifest, and Git history of `babunidev/roarr`. Not a recovered transcript or an account of in-client tests.
+**By:** Babuni  
+**Reconstructed on:** 2026-10-26 from the source, README, manifest, and Git history of `babunidev/BattleEmotes`. Not a recovered transcript or an account of in-client tests.
 
 ## The small idea: let the character answer an action
 
 ROARR turns a routine World of Warcraft action-bar press into a chance for theatrics. A roar, a charge, a flex—or the unexpectedly comic boredom of a fighter in the middle of action—can punctuate an ability without taking control away from the player. The content is intentionally game-native. The addon chooses between built-in `DoEmote` tokens, not a complex bank of voice recordings or custom animations.
 
-The setting is a small act of player-directed expression. Chance, cooldown and an on/off switch determine how often the character interrupts ordinary play. The maker retains creative authority over that experience. This opening is an **interpretation of committed functionality and documentation**, not an invented quote from Babuni.dev's original design conversation.
+The setting is a small act of player-directed expression. Chance, cooldown and an on/off switch determine how often the character interrupts ordinary play. The maker retains creative authority over that experience. This opening is an **interpretation of committed functionality and documentation**, not an invented quote from Babuni's original design conversation.
 
 ## Earlier context: the other `roar` repository
 
 The separate [`roar` repository](https://github.com/babunidev/roar) began a day earlier, on 2025-11-22. Its first ROAR implementation noted that it had been rewritten from BuxbrewCharge. By November 23, that repository had passed through several naming changes and had committed ROARR files with a six-second default cooldown and the five emote tokens ROAR, CHARGE, CHEER, BORED and FLEX.
 
-This other repository's history provides **context**, but it is not the development history of `babunidev/roarr`. It would be misleading to copy every earlier filename experiment into this repository's changelog or imply this repo contained those deleted/renamed files.
+This other repository's history provides **context**, but it is not the development history of `babunidev/BattleEmotes`. It would be misleading to copy every earlier filename experiment into this repository's changelog or imply this repo contained those deleted/renamed files.
 
 ## 23 November 2025: the standalone `roarr` repository appears
 
@@ -44,3 +44,7 @@ The snapshot retains one Lua file and one manifest, no automated test suite, no 
 Babuni.dev has not yet selected, in evidence available here, which of the two similarly named repositories should be the authoritative public distribution, whether to keep both as historical snapshots, or whether to consolidate them. The documentation leaves those questions open rather than guessing.
 
 **Human direction:** the creator authored/owns the expressive addon concept and decisions. **AI contribution in this pass:** researched the code and history, compared the two sources, authored substantial Markdown documentation and updated the repo; it did not implement new game behavior, perform runtime tests, or decide to merge projects.
+
+## November 2026 — Battle Emotes
+
+After naming the earlier `roar` repository **Battle Emotes Legacy**, I renamed this separate `roarr` repository to **BattleEmotes**. The two snapshots are closely related, but I want their separate histories preserved. The small change that distinguishes this copy in the inspected Git record is its longer seven-step setup tutorial. At my request, an AI assistant aligned this documentation with the new names and first-person viewpoint. The installed addon remains **ROARR**, and no gameplay code was changed or tested during this review.
