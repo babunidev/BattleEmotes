@@ -1,6 +1,8 @@
-# ROARR — in-game words, built-in emotes and tutorial
+# Battle Emotes — in-game words, built-in emotes and tutorial
 
-**Author:** Babuni.dev.  
+This content inventory belongs to my **Battle Emotes** repository, formerly `roarr`. Its five built-in emote tokens are part of the historical **ROARR** addon rather than new assets created in this documentation revision.
+
+**By:** Babuni.  
 **Source:** `roarr.lua`.
 
 ## Five built-in emote tokens
