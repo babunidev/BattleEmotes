@@ -1,6 +1,8 @@
-# ROARR — interaction and onboarding design
+# Battle Emotes — interaction and onboarding design
 
-**Creative author:** Babuni.dev.
+For this project I kept the character's response tied to a button I pressed, with a chance and cooldown to control its frequency. The GitHub project is now named **Battle Emotes**, while the installed addon remains **ROARR**.
+
+**By:** Babuni.
 
 ## Core emotional effect
 
