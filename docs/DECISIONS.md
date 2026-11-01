@@ -1,4 +1,4 @@
-# ROARR — source-backed decisions and open questions
+# Battle Emotes — source-backed decisions and open questions
 
 **Creative director:** Babuni.dev.
 
@@ -16,7 +16,7 @@
 
 ## Historical boundaries
 
-The repository `babunidev/roarr` was created and populated on November 23, 2025. The `babunidev/roar` repository existed earlier and shows multiple ROAR/ROARR renames. This repo did **not** experience those historical renames itself in its visible Git record.
+The repository `babunidev/BattleEmotes` was created and populated on November 23, 2025. The `babunidev/roar` repository existed earlier and shows multiple ROAR/ROARR renames. This repo did **not** experience those historical renames itself in its visible Git record.
 
 The presence of a duplicate-like repo does not establish an intent to abandon the other one. The tutorial change is verified as a source change; an original user/AI design debate is not available.
 
@@ -34,3 +34,7 @@ The current README and TOC credit **Babuni.dev** as author. The MIT `LICENSE` co
 - Should the historic license attribution be clarified?
 
 The AI assistant must record explicit author answers before changing code or repo governance.
+
+## November 2026 — repository identity
+
+I renamed the repository to **BattleEmotes**, with the public title **Battle Emotes**, and kept the earlier **BattleEmotesLegacy** repository separate. This does not rename the installed **ROARR** addon or merge the two Git histories. At my request, AI updated the documentation only.
