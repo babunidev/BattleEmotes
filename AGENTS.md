@@ -36,3 +36,7 @@ Use **Babuni** for the human identity, **babuni.dev** for the development portfo
 ## Cross-project evidence
 
 Use [the family-history comparison](docs/EMOTE_FAMILY_HISTORY.md) before describing this project's relationship to Battle Emotes Legacy, Multi Action Emotes, or Roar Guild Addon. Do not imply the static five-token source array is an unlimited player-editable emote list.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
