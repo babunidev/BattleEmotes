@@ -6,11 +6,13 @@
 **Addon version:** 1.0  
 **Verification:** Static repository inspection; not tested in-game during this documentation pass.
 
-This is my **Battle Emotes** repository, originally named `roarr`. The name describes its function and distinguishes it from my earlier [Battle Emotes Legacy](https://github.com/babunidev/BattleEmotesLegacy) repository. The installed addon is still **ROARR**, with the original `roarr.lua`, `roarr.toc`, `/roarr` commands and `ROARRDB` settings; the GitHub rename does not change those identifiers.
-
 ROARR makes an ordinary action-bar button a chance for spontaneous roleplay. The addon watches one configured action slot, and after checking its enable switch, cooldown and probability, it chooses one of five built-in game emotes: **ROAR, CHARGE, CHEER, BORED, FLEX**. The underlying action is still forwarded to World of Warcraft.
 
 This is a small **expressive addon**, not automatic combat decision-making, a scripted ability rotation, or a source of custom voice/animation assets.
+
+## Repository and addon names
+
+This is my **Battle Emotes** repository, originally named `roarr`. The name describes its function and distinguishes it from my earlier [Battle Emotes Legacy](https://github.com/babunidev/BattleEmotesLegacy) repository. The installed addon is still **ROARR**, with the original `roarr.lua`, `roarr.toc`, `/roarr` commands and `ROARRDB` settings; the GitHub rename does not change those identifiers.
 
 ## Install and try it
 
