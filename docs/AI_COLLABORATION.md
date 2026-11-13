@@ -1,5 +1,7 @@
 # Battle Emotes — collaboration and attribution methodology
 
+Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 **By:** Babuni.
 
 ## What the existing evidence can tell us
